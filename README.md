@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This App is used to schedule appointments for veterinaries. 
+This App is used to help veterinarians schedule appointments. 
 
 ## Available Scripts
 
