@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This App is used to help veterinarians schedule appointments. 
+This app is used to help veterinarians schedule appointments. 
 
 This app was created using react and the tailwindcss framework.
 
