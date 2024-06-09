@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This App is used to help veterinarians schedule appointments. 
 
+This app was created using react and the tailwindcss framework.
+
 ## Available Scripts
 
 In the project directory, you can run:
