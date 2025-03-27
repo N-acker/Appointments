@@ -1,11 +1,29 @@
-# Getting Started with Create React App
+# Appointments
+
+**Appointments** is a web application designed to assist veterinarians in efficiently scheduling and managing their appointments.  
+Built with **React** and styled using **Tailwind CSS**, this app provides a user-friendly interface for appointment management.
+
+## Features
+
+- **Appointment Scheduling:** Easily create, view, and manage veterinary appointments.
+- **Responsive Design:** Optimized for various devices to ensure accessibility on desktops, tablets, and smartphones.
+- **Modern UI:** Utilizes Tailwind CSS for a clean and customizable user interface.
+
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This app is used to help veterinarians schedule appointments. 
+### Prerequisites
 
-This app was created using react and the tailwindcss framework.
+Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/) installed on your system.
 
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/N-acker/Appointments.git
+
+----------------------------------------------------------------------------------------------------------------------------------------
 ## Available Scripts
 
 In the project directory, you can run:
